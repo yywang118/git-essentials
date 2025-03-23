@@ -1,5 +1,1 @@
-This is the first push
-This is the second edit to this file
-This is the additional edit to this file
-
-This is the 4th edit
+Delete
